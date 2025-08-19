@@ -1,7 +1,7 @@
 
 
-export default function () {
+export default function page() {
   return (
-    <div className="text-red-400">Hello bhai</div>
+    <div className="text-red-400">page</div>
   )
 }
